@@ -24,6 +24,9 @@ For S&P500: the optimal profits and loss window for year 2017:
 
 Optimal W and average profits/losses: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/8448c0c5-4e46-47bb-b3b1-139e1683185f">
+
+
+
 Visualization: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/4afb45ff-b22a-44d0-8d2a-dd8de3cfd56a">
 
