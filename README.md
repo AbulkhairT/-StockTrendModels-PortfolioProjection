@@ -20,7 +20,7 @@ Performance Evaluation: Calculation of the average profit/loss per trade for lon
 Years 2017 and 2018 were analyzed, the first year was traning data, and year 2018, which is second year was the testing data. 
 Results: 
    For S&P500: the optimal profits and loss window for year 2017:
-   <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/ba52303f-a9fa-456f-9cc2-d0003eec4559">
+<img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/ba52303f-a9fa-456f-9cc2-d0003eec4559">
    Optimal W and average profits/losses: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/8448c0c5-4e46-47bb-b3b1-139e1683185f">
    Visualization: 
