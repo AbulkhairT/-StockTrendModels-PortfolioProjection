@@ -19,24 +19,24 @@ Performance Evaluation: Calculation of the average profit/loss per trade for lon
 
 Years 2017 and 2018 were analyzed, the first year was traning data, and year 2018, which is second year was the testing data. 
 Results: 
-For S&P500: the optimal profits and loss window for year 2017: 
+   For S&P500: the optimal profits and loss window for year 2017: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/ba52303f-a9fa-456f-9cc2-d0003eec4559">
-Optimal W and average profits/losses: 
+   Optimal W and average profits/losses: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/8448c0c5-4e46-47bb-b3b1-139e1683185f">
-Visualization: 
+   Visualization: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/4afb45ff-b22a-44d0-8d2a-dd8de3cfd56a">
 R^2
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/03c59b34-13fa-4a72-b7ba-d502b65cee30">
-Number of Long, Short positions for year 2 and average profits/losses per year 
+   Number of Long, Short positions for year 2 and average profits/losses per year 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/f7f21697-837d-41c5-9830-85bf72bab22b">
-Accuracy for different polynomials and visualization vs window sizes: 
+   Accuracy for different polynomials and visualization vs window sizes: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/1938f0e8-6af1-40e1-939b-cfb5ad9af1e1">
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/c3c1ed6c-afaa-46a1-968c-cf10b735cfe4">
-Best window sizes:
+   Best window sizes:
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/ecc5d54f-89d8-45f2-87fd-6649c1c8fc70">
 Value of portfolio based on trading strategies for year 2 (for each d using the ”best” values for W from year 1 that were found):
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/0fc881a0-a514-4878-b08e-6cb1b5f89398">
-Significant chages for the stock for both years: 
+   Significant chages for the stock for both years: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/e44436ae-90af-43b3-9ceb-2acc047457f2">
 
 
@@ -64,24 +64,24 @@ Optimal value of W:
 
 
 For T-Mobile: 
-The optimal profits and loss window for year 2017: 
+   The optimal profits and loss window for year 2017: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/7d774421-5fe2-4607-954c-f9808c90f852">
-Optimal W and average profits/losses: 
+   Optimal W and average profits/losses: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/1dba7cfc-72c3-430c-9e04-273320b577e0">
-Visualizaiton:
+   Visualizaiton:
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/480ca0ed-1a15-4bc0-a5a8-584fc2cf20ab">
 R^2 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/c76e3934-7d3e-4ea7-a7a4-000cd5a7a2af">
-Number of Long, Short positions for year 2 and average profits/losses per year 
+   Number of Long, Short positions for year 2 and average profits/losses per year 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/c30f8a91-d698-4db4-afcf-f37f02884791">
-Accuracy for different polynomials and visualization vs window sizes: 
+   Accuracy for different polynomials and visualization vs window sizes: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/9e2879ba-6e34-407f-ac3e-d44228067525">
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/eade3fed-ef9b-4baf-bd4e-f40b1ddd27de">
-Best window sizes: 
+   Best window sizes: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/6f707b79-7f91-47d1-862c-5a9ef9ae45a2">
-Value of portfolio based on trading strategies for year 2 (for each d using the ”best” values for W from year 1 that were found):
+   Value of portfolio based on trading strategies for year 2 (for each d using the ”best” values for W from year 1 that were found):
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/92bbeae1-4857-493e-9a61-8dc7f53d9fb6">
-Significant chages for the stock for both years: 
+   Significant chages for the stock for both years: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/625f0a56-95f4-46fe-a7b1-ba3d0db4b9a9">
 
 Optimal value of W: 
