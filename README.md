@@ -21,21 +21,28 @@ Years 2017 and 2018 were analyzed, the first year was traning data, and year 201
 Results: 
 For S&P500: the optimal profits and loss window for year 2017: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/ba52303f-a9fa-456f-9cc2-d0003eec4559">
+
 Optimal W and average profits/losses: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/8448c0c5-4e46-47bb-b3b1-139e1683185f">
 Visualization: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/4afb45ff-b22a-44d0-8d2a-dd8de3cfd56a">
+
 R^2
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/03c59b34-13fa-4a72-b7ba-d502b65cee30">
+
 Number of Long, Short positions for year 2 and average profits/losses per year 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/f7f21697-837d-41c5-9830-85bf72bab22b">
+
 Accuracy for different polynomials and visualization vs window sizes: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/1938f0e8-6af1-40e1-939b-cfb5ad9af1e1">
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/c3c1ed6c-afaa-46a1-968c-cf10b735cfe4">
+
 Best window sizes: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/ecc5d54f-89d8-45f2-87fd-6649c1c8fc70">
+
 Value of portfolio based on trading strategies for year 2 (for each d using the ”best” values for W from year 1 that were found):
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/0fc881a0-a514-4878-b08e-6cb1b5f89398">
+
 Significant chages for the stock for both years: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/e44436ae-90af-43b3-9ceb-2acc047457f2">
 
