@@ -42,19 +42,19 @@ Value of portfolio based on trading strategies for year 2 (for each d using the 
 
 Optimal value of W: 
    - For year 1, we computed the average P/L per trade for window sizes  W = 5,6,...,30 .
-   - We plotted these values and found the optimal window size to be 28.
+   - We plotted these values and found the optimal window size to be 15.
 
-  R^2 values for year 2**:
-   - Using \( W^* = 28 \) from year 1, we computed the \( R^2 \) for each day in year 2.
+  R^2 values for year 2:
+   - Using W = 15 from year 1, we computed the R^2  for each day in year 2.
 
-  Trading transactions for year 2**:
-   - With  W = 28, I found there were 13 "long position" and 15 "short position" transactions in year 2.
+  Trading transactions for year 2:
+   - With  W = 15, I found there were 16 long positions and 16 short position transactions in year 2.
 
-  Average P/L for trades in year 2**:
-   - I calculated the average profit/loss per "long position" and "short position" trade in year 2, which were approximately $0.50 and -$0.07, respectively.
+  Average P/L for trades in year 2:
+   - I calculated the average profit/loss per long position and short position trade in year 2, which were approximately $-2.9 and -$1.006, respectively.
 
-  Average number of days for transactions in year 2**:
-   - I determined the average number of days for long positions was about 7.38 days and for short positions was about 7.07 days.
+  Average number of days for transactions in year 2:
+   - I determined the average number of days for long positions was about 4.04 days and for short positions was about 4.47 days.
      
   Second W was the best for the trading strategy, bringing the least losses 
 
@@ -84,21 +84,21 @@ R^2
    Significant chages for the stock for both years: 
 <img width="399" alt="image" src="https://github.com/AbulkhairT/-StockTrendModels-PortfolioProjection/assets/125773898/625f0a56-95f4-46fe-a7b1-ba3d0db4b9a9">
 
-Optimal value of W: 
+OOptimal value of W: 
    - For year 1, we computed the average P/L per trade for window sizes  W = 5,6,...,30 .
    - We plotted these values and found the optimal window size to be 28.
 
-  R^2 values for year 2**:
-   - Using \( W^* = 28 \) from year 1, we computed the \( R^2 \) for each day in year 2.
+  R^2 values for year 2:
+   - Using W = 28  from year 1, we computed the R^2  for each day in year 2.
 
-  Trading transactions for year 2**:
-   - With  W = 28, I found there were 13 "long position" and 15 "short position" transactions in year 2.
+  Trading transactions for year 2:
+   - With  W = 28, I found there were 13 long position and 15 short position transactions in year 2.
 
-  Average P/L for trades in year 2**:
-   - I calculated the average profit/loss per "long position" and "short position" trade in year 2, which were approximately $0.50 and -$0.07, respectively.
+  Average P/L for trades in year 2:
+   - I calculated the average profit/loss per long position and short position trade in year 2, which were approximately $0.50 and -$0.07, respectively.
 
-  Average number of days for transactions in year 2**:
-   - I determined the average number of days for long positions was about 7.38 days and for short positions was about 7.07 days.
+  Average number of days for transactions in year 2:
+   - I determined the average number of days for long positions was about 6.7 days and for short positions was about 6.5 days.
 
   Second W was the best for the trading strategy, bringing the least losses
 
